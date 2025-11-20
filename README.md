@@ -1,3 +1,3 @@
-# Bits-and-Atoms-3
+# Bits-and-Atoms-3 Flo
 
-This is the readme for the Bits & Atoms 3 repo.
+This is the readme for the Bits & Atoms 3 repo (data visualisation)
